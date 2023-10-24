@@ -1,7 +1,7 @@
 # Shkenca Kompjuterike 2
 
 <img
-  src="/assets/image.png"
+  src="/assets/image.jpg"
   alt="Alt text"
   title="Optional title"
   style="border: 1px solid black; border-radius: 50%;width:50%"><br>
